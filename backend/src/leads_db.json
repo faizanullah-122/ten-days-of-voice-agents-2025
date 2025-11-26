@@ -1,12 +1,12 @@
 [
     {
         "name": "Roman",
-        "company": "x y z company",
-        "email": "Romanrings@gmail.com",
-        "role": "social leader",
-        "use_case": null,
+        "company": "X Y Zed",
+        "email": "roman123@gmail.com",
+        "role": "Social Lead",
+        "use_case": "Upskill in Google Cloud Arcade",
         "team_size": null,
-        "timeline": "Right away",
-        "timestamp": "2025-11-26T20:14:59.186853"
+        "timeline": "Tomorrow",
+        "timestamp": "2025-11-26T20:30:15.393681"
     }
 ]
